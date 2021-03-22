@@ -1,2 +1,2 @@
 # Simple-Chronometer
-Very simple Chronometer created by using Calendar class in java
+Very simple Chronometer created with using Calendar class in java
